@@ -1,2 +1,2 @@
 hello world ,welcome to use git !
-today is sunny
+day is sunny
